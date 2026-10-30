@@ -1,0 +1,14 @@
+{
+  "name": "heygen-avatar-director",
+  "version": "0.1.0",
+  "description": "HeyGen Avatar Director Skill for Claude: make HeyGen AI avatars look and move more naturally. Claude writes a script for speaking, plans gestures and settings beat by beat, renders through the HeyGen API, reviews every take and re-renders weak beats. Uses your own HeyGen API key.",
+  "author": {
+    "name": "Saba Azadegan",
+    "url": "https://github.com/sabaazdn73"
+  },
+  "homepage": "https://github.com/sabaazdn73/heygen-avatar-director-skill-for-claude",
+  "repository": "https://github.com/sabaazdn73/heygen-avatar-director-skill-for-claude",
+  "license": "MIT",
+  "keywords": ["heygen", "avatar", "ai-video", "talking-head", "video", "presenter"],
+  "displayName": "HeyGen Avatar Director Skill for Claude"
+}

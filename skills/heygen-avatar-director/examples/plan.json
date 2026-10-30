@@ -1,0 +1,33 @@
+{
+  "title": "Studio intro",
+  "avatar_id": "REPLACE_WITH_LOOK_ID",
+  "avatar_type": "photo_avatar",
+  "voice_id": "REPLACE_WITH_VOICE_ID",
+  "engine": "avatar_iv",
+  "aspect_ratio": "16:9",
+  "resolution": "1080p",
+  "voice_settings": { "speed": 1.0, "pitch": 0, "locale": "en-US" },
+  "beats": [
+    {
+      "id": "b1",
+      "script": "Hi, I'm Saba. I'm a structural engineer, and I build tools that check engineering work.",
+      "motion_prompt": "small nod on 'Hi', hands resting, then one hand lifts slightly on 'check'",
+      "expressiveness": "medium",
+      "speed": 1.0
+    },
+    {
+      "id": "b2",
+      "script": "Most AI mistakes in engineering are small. A wrong load. A missing check. But small mistakes add up.",
+      "motion_prompt": "calm and still, a slight lean toward the camera on 'add up'",
+      "expressiveness": "low",
+      "speed": 0.94
+    },
+    {
+      "id": "b3",
+      "script": "So every answer gets checked by hand. That's the part I care about most.",
+      "motion_prompt": "open palm toward the camera on 'every answer', then hands rest",
+      "expressiveness": "medium",
+      "speed": 0.97
+    }
+  ]
+}

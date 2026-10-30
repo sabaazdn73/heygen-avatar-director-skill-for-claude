@@ -1,0 +1,16 @@
+{
+  "name": "heygen-avatar-director",
+  "description": "HeyGen Avatar Director Skill for Claude: more natural HeyGen AI avatars.",
+  "owner": {
+    "name": "Saba Azadegan",
+    "url": "https://github.com/sabaazdn73"
+  },
+  "plugins": [
+    {
+      "name": "heygen-avatar-director",
+      "source": "./",
+      "description": "Direct HeyGen AI avatar videos so they look and move more naturally: script for speaking, per-beat gestures, render, review, re-render.",
+      "version": "0.1.0"
+    }
+  ]
+}

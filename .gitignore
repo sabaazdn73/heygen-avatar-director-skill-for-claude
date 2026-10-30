@@ -1,0 +1,9 @@
+*.mp4
+*.webm
+*.srt
+*.state.json
+renders/
+frames/
+*.sheet.jpg
+__pycache__/
+.env
